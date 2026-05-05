@@ -1,5 +1,3 @@
-<p align="left">notpoiu / README.md</p>
-
 <p align="center">
   <a href="https://discord.com/users/1143371202480590920" target="_blank">
     <img
