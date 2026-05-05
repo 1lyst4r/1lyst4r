@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="left">notpoiu / README.md</p>
 
-<!--
-**1lyst4r/1lyst4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://discord.com/users/1143371202480590920" target="_blank">
+    <img
+      src="https://lanyard.cnrad.dev/api/1143371202480590920?theme=dark&bg=1a1b1e&borderRadius=16px&animated=true&hideDiscrim=true"
+      alt="Discord Presence"
+    />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## hey, im "star" and i love stars
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+im a DUMBASS that is unemployed
+
+im 15, female.
