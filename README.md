@@ -1,5 +1,5 @@
 # Hello! My name is *rei*
-I like creating websites, like my [portfolio](reii.dev) for fun, since they're fun to code. I code Roblox games too, but I'm too lazy to fully complete them.
+I like creating websites, like my portfolio (reii.dev) for fun, since they're fun to code. I code Roblox games too, but I'm too lazy to fully complete them.
 
 I don't have a *ton* of repositories, since what I mostly do is for fun and never plan to actually release them to the public, unless it's a good idea, then yes, I will probably try to make it.
 
